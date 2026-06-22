@@ -1,5 +1,5 @@
 # coffee_bean_image_classification
-I completed this project for an image processing class for my graduate degree in Spring 2026. It uses image processing techniques to classify images of coffee beans into distinct roast levels.
+I completed this project for an image processing class for my graduate degree in Winter 2026. It uses image processing techniques to classify images of coffee beans into distinct roast levels.
 
 The data comes from [Kaggle](https://www.kaggle.com/datasets/gpiosenka/coffee-bean-dataset-resized-224-x-224/data) and consists of 1,194 unique images, or about 400 images per distinct roast level: unroasted (green), light roast, medium roast, and dark roast.
 
